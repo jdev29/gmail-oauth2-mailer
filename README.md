@@ -64,7 +64,7 @@ Correr el proyecto usando:
 ```php artisan serve --host=localhost --port=8080```
 
 Entrar a siguiente URL (verificar antes tu puerto actual puerto):
-> http://localhost:**8080**/oauth2-callback
+> http://localhost:8080/oauth2-callback
 
 Esto generará una URL de autorización, copiar e ingresar al navegador, nos traerá el access token y refresh token, esos dos datos copiarlos al .env:
 
