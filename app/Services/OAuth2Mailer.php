@@ -5,8 +5,6 @@ use Google\Client as GoogleClient;
 use Swift_Mailer;
 use Swift_SmtpTransport;
 use Swift_Message;
-use Swift_Plugins_Loggers_ArrayLogger;
-use Swift_Plugins_LoggerPlugin;
 use Swift_Plugins_Authentication_XOAUTH2;
 use Illuminate\Support\Facades\View;
 use Swift_Image;
