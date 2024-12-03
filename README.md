@@ -78,4 +78,4 @@ GMAIL_REFRESH_TOKEN=xxxxx
 Por último, para fines prácticos, abrir Postman y hacer la siguiente petición mediante post:
 
 POST:
-> http://127.0.0.1:8080/oauth2-callback
+> http://127.0.0.1:8080/mail-test
